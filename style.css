@@ -30,3 +30,8 @@ main{
     flex-direction: row;
     margin-top: 50px;
 }
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
