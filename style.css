@@ -37,7 +37,16 @@ li{
 }
 
 h2{
-    font-size: 56px;
+    font-size: 50px;
     line-height: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: blue;
+    transition: 0.4s;
 }
