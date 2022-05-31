@@ -57,3 +57,11 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 24px;
 }
+
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
