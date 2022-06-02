@@ -66,6 +66,22 @@ form{
     width: 70%;
 }
 
+
+form [type="submit"]{
+    height: 50px;
+    width: 50%;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+
+
+form [type="submit"]:hover{
+    cursor: pointer;
+}
+
+
+
 input{
     margin-top: 20px;
     height: 20px;
