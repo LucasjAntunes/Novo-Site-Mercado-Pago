@@ -14,10 +14,7 @@ header{
     align-items: center;
 }
 
-#title{
-    flex-direction: column;
-    line-height: 10px;
-}
+
 
 
 h1{
